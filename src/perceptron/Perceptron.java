@@ -98,8 +98,3 @@ public class Perceptron {
         writer.close();
     }
 }
-//3.1 = 16 epochs
-//1.0 = 10 epochs
-//2.1 = 10 epochs
-//4.1 = 07 epochs
-//alpha < 1.0 = infinity( Does not converge ).
